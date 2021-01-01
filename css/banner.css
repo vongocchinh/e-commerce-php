@@ -1,0 +1,50 @@
+.banner-footer{
+	background-color: #F0F0F0;
+	width: 100%;
+	height: auto;
+margin-bottom: -20px;
+}
+.banner-footer .img1{
+	margin-left: 100px;
+
+}
+.banner-footer .img2{
+	margin-left: 500px;
+	margin-top: 40px;
+	position: absolute;
+
+}
+.footer{
+	background-color: #F0F0F0;
+	color: black;
+}
+.footer h3,.footer a,.footer p,.footer input{
+	color: black;
+}
+.footer input{
+	border: 1px solid #F0F0F0;
+}
+.footer h3:hover,.footer a:hover{
+	color: #F34111;
+}
+.btn-top{
+	border:none;
+	border-radius: 0%;
+}
+.footer-main-banner{
+	background-color: #F0F0F0;
+}
+.footer-main-banner img{
+	margin-left: 100px;
+
+}
+.fas{
+	color: #636363;
+}
+footer{
+	background-color: #F0F0F0;
+}
+
+footer p{
+	color: #636363;
+}

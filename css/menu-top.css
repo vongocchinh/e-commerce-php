@@ -1,0 +1,86 @@
+div.menu-top {
+	
+	font-size: 12px;
+	
+	
+	position: absolute;
+	margin-top: 25px;
+	margin-left:  75px;
+	
+}
+div.menu-top a{
+	display: inline-block;
+	text-decoration: none;
+	list-style-type: none;
+	color: white;
+	margin-left: 15px;
+}
+div.header-menu-header2{
+	margin-top: -10px;
+}
+body{
+	background-color: #F5F7F5;
+}
+div.container12{
+	background-color: white;
+	height: 940px;
+	padding-top: 10px;
+}
+div.container13{
+	background-color: white;
+	height: 340px;
+	padding-top: 10px;
+}
+div.container14{
+	background-color: white;
+	height: 290px;
+	padding-top: 10px;
+	margin-top: 20px;
+	padding: 20px;
+}
+div.container13 .spch{
+	font-size:16px;
+	padding-left: 10px;
+line-height: 10px;
+color: #0078D7;
+}
+div.pr-main-left{
+background-color: white;
+padding: 10px 10px;
+margin-top: -5px;
+margin-top: 5px;
+width: 21%;
+}
+div.pr-main-right{
+	background-color: white;
+	margin-top: 5px;
+}
+div.container21{
+	background-color: white;
+	padding: 20px 20px;
+	height: 620px;
+}
+div.container22{
+	background-color: white;
+	padding: 20px 30px;
+	height: 820px;
+}
+div.container-min div.mota{
+	height: 465px;
+	color: black;
+	list-style-type: none;
+	text-decoration: none;
+	 overflow: hidden;
+  	text-overflow: clip; 
+
+}
+div.container-min .xxtt{
+	position: absolute;
+	margin-top: -27px;
+	font-size:14px;
+	color: white;
+	margin-left: 740px;
+	background-color: #0078D7;
+	padding: 5px;
+	border-radius: 5px;
+}

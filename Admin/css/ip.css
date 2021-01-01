@@ -1,0 +1,20 @@
+.card .btn-luu{
+	width: 300px;
+	background-color: #00BCD5;
+	border: none;
+	color: white;
+	height: 35px;
+}
+.container-fluid .card-body .card .name-text{
+	width: 200px;
+}
+.card  .input{
+	width: 300px;
+	height: 35px;
+	border:1px solid #A0A0A0 ;
+	border-radius: 3px;
+	padding-left: 5px;
+}
+.card  .input:focus {
+	border:1px solid #A0A0A0;
+}
